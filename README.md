@@ -15,6 +15,6 @@ https://firebasestorage.googleapis.com/v0/b/adhnan-bio.appspot.com/o/screen-2023
 <a href="http://bit.ly/3YhjRgN" class="button">Click here to Download apk</a>
 <input class="button" type="submit">
 
-![OG_v2]([https://user-images.githubusercontent.com/1382619/226843161-a70bd080-8565-4513-a8f2-21927ecd50bf.png](https://firebasestorage.googleapis.com/v0/b/adhnan-bio.appspot.com/o/bit.ly_3YhjRgN.png?alt=media&token=ceb0f12a-f654-4a35-ba7e-3b487c8bd00e))
+![OG_v2](https://user-images.githubusercontent.com/1382619/226843161-a70bd080-8565-4513-a8f2-21927ecd50bf.png](https://firebasestorage.googleapis.com/v0/b/adhnan-bio.appspot.com/o/bit.ly_3YhjRgN.png?alt=media&token=ceb0f12a-f654-4a35-ba7e-3b487c8bd00e)
 
 
