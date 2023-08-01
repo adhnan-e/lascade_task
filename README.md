@@ -11,6 +11,7 @@
 **Feature Preview (Video)👇**
 [![Watch the video]](https://firebasestorage.googleapis.com/v0/b/adhnan-bio.appspot.com/o/screen-20230802-012059.mp4?alt=media&token=b4b3b0ed-8063-4d31-ae97-3089003a27b4)
 
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://firebasestorage.googleapis.com/v0/b/adhnan-bio.appspot.com/o/screen-20230802-012059.mp4?alt=media&token=b4b3b0ed-8063-4d31-ae97-3089003a27b4)
 
 
 <a href="http://bit.ly/3YhjRgN" class="button">Click here to Download apk</a>
